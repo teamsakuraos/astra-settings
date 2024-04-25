@@ -1,8 +1,6 @@
-# Lingmo-Settings
+# astra-Settings
 
-The system settings application for LingmoOS uses LingmoUI as the interface style.
-
-![settings-screenshot](screenshots/settings.png)
+The system settings application for astraOS uses PetalyUI as the interface style.
 
 ## Dependencies
 Arch/Manjaro Dependencies:
